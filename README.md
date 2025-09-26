@@ -1,4 +1,4 @@
-# MaShuai-Farm-2-Godot-Edition-APK
+# MaShuai-Farm-2-Godot-Edition-APK-preview
 you can download game version and lastest version!
 
-there will be some pre-release you can download pre-release version!
+download preview version of MaShuai Farm 2
