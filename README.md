@@ -1,4 +1,4 @@
 # MaShuai-Farm-2-Godot-Edition-APK-preview
-you can download game version and lastest version!
+made in Godot 4.this is a open world game 
 
 download preview version of MaShuai Farm 2
