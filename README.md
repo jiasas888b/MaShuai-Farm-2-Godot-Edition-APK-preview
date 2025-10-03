@@ -2,3 +2,5 @@
 made in Godot 4.this is a open world game 
 
 download preview version of MaShuai Farm 2
+
+the official version is in other repository
